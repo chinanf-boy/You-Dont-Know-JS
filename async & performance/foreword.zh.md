@@ -19,4 +19,4 @@
 
 好吧，我不会再妨碍你欣赏这本书了！如果你在阅读这个前言之前已经读过这本书的一部分，那就给自己10个异步点！你配得上他们！
 
-杰克阿奇博尔德<br>jakearchibald.com[，](http://jakearchibald.com)“jaffathecake[&lt;br>](http://twitter.com/jaffathecake)谷歌浏览器开发者倡导者谷歌浏览器开发者倡导者
+杰克阿奇博尔德<br>jakearchibald.com[，](http://jakearchibald.com)“jaffathecake[谷歌浏览器开发者倡导者](http://twitter.com/jaffathecake)<br>谷歌浏览器开发者倡导者

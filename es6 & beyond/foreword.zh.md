@@ -13,4 +13,4 @@ _6与超越_读者会熟悉的_你不知道JS_系列：他们可以深深地沉�
 
 这本书是通过揭露你对新事物和未知事物的理解来动摇你的理解力。目的是发展你的知识和你的工具一步一步给你新的能力。它的存在是为了让你有信心完全接受下一个JavaScript编程的主要时代。
 
-Rick Waldron<br>“rwaldron[&lt;br>](http://twitter.com/rwaldron)开放的网络工程师在Bocoup&lt;br>ECMA / TC39代表jQueryECMA / TC39代表jQuery
+Rick Waldron<br>“rwaldron[开放的网络工程师在Bocoup](http://twitter.com/rwaldron)<br>ECMA / TC39代表jQuery<br>ECMA / TC39代表jQuery

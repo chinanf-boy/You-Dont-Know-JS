@@ -17,4 +17,4 @@ _类型和语法_本系列的第三部分，是对JavaScript基本原理的极�
 
 享受类型和语法，不要让它离你的书桌太远！
 
-大卫·沃什<br>http&#x3A;//davidwalsh.name[，](http://davidwalsh.name)“davidwalshblog[&lt;br>](http://twitter.com/davidwalshblog)高级网页开发者高级网页开发者
+大卫·沃什<br>http&#x3A;//davidwalsh.name[，](http://davidwalsh.name)“davidwalshblog[高级网页开发者](http://twitter.com/davidwalshblog)<br>高级网页开发者

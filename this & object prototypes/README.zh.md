@@ -1,7 +1,7 @@
 
 # 你不认识JS：_这_与对象的原型
 
-<img src=“封面图片”width=“300”>
+<img src="cover.jpg" width="300">
 
 * * *
 

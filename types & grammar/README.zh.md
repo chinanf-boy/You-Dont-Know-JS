@@ -1,7 +1,7 @@
 
 # 你不知道JS：类型和语法
 
-<img src=“封面图片”width=“300”>
+<img src="cover.jpg" width="300">
 
 * * *
 

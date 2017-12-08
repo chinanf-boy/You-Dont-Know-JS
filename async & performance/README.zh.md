@@ -1,7 +1,7 @@
 
 # 你不知道JS：异步性能
 
-<img src=“封面图片”width=“300”>
+<img src="cover.jpg" width="300">
 
 * * *
 

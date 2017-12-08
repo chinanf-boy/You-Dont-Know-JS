@@ -17,4 +17,4 @@
 
 您接触JavaScript的次数越多，它就越清晰。像闭包、对象和方法之类的词现在似乎对你来说是遥不可及的，但是这本书将帮助这些术语变得清晰。在你开始这本书之前，我想让你记住这两种感觉。这似乎有些让人气馁，但你已经拿起这本书，因为你正在开始一次可怕的旅程来磨练你的知识。_起来，去_是我们理解程序设计的开始。享受灯泡时刻！
 
-Jenn卢卡斯<br>jennlukas.com[，](http://jennlukas.com/)“jennlukas[&lt;br>](https://twitter.com/jennlukas)前端顾问前端顾问
+Jenn卢卡斯<br>jennlukas.com[，](http://jennlukas.com/)“jennlukas[前端顾问](https://twitter.com/jennlukas)<br>前端顾问

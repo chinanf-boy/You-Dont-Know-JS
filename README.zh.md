@@ -3,11 +3,11 @@
 
 这是一系列深入探讨JavaScript语言核心机制的书籍。该系列的第一版现已完成。
 
-< a href =“http：/ / www.ebooks。COM / 1993212 / you-don-t-know-js-up-going /辛普森凯尔/”><img src=“% 26 /套。JPG”width=“75”>< > &lt; a href =“http：/ / www.ebooks。COM / 1647631 / you-don-t-know-js-scope-closures /辛普森凯尔/”><img src=“范围% 26关闭/盖。JPG”width=“75”>< > &lt; a href =“http：/ / www.ebooks。COM / 1734321 / you-don-t-know-js-this-object-prototypes /辛普森凯尔/”>&lt;img src=“% 26对象原型/盖。JPG”width=“75”>< > < a href =“http：/ / www.ebooks。COM / 1935541 / you-don-t-know-js-types-grammar /辛普森凯尔/”>&lt;img src=“类型% 26语法/盖。JPG”width=“75”>&lt; > < a href =“http：/ / www.ebooks。COM / 1977375 / you-don-t-know-js-async-performance /辛普森凯尔/”><img src=“异步% 26性能/盖。JPG”width=“75”>&lt; > < a href =“http：/ / www.ebooks。COM / 2481820 / you-don-t-know-js-es6-beyond /辛普森凯尔/”><img src=“6 % 26超越覆盖。JPG”width=“75”>< >请提交PR的代码片段，改进的解释有助于该内容的质量，而错误的修复等的欢迎，他们可能会发现通过正常的编辑过程，因而不一定为这个库的重要。要了解更多关于本书系列背后的动机和观点，请查阅前言。标题
+<a href="http://www.ebooks.com/1993212/you-don-t-know-js-up-going/simpson-kyle/"><img src="up %26 going/cover.jpg" width="75"></a>  <a href="http://www.ebooks.com/1647631/you-don-t-know-js-scope-closures/simpson-kyle/"><img src="scope %26 closures/cover.jpg" width="75"></a>  <a href="http://www.ebooks.com/1734321/you-don-t-know-js-this-object-prototypes/simpson-kyle/"><img src="this %26 object prototypes/cover.jpg" width="75"></a> 请提交PR的代码片段，改进的解释有助于该内容的质量，而错误的修复等的欢迎，他们可能会发现通过正常的编辑过程，因而不一定为这个库的重要。<a href="http://www.ebooks.com/1935541/you-don-t-know-js-types-grammar/simpson-kyle/"><img src="types %26 grammar/cover.jpg" width="75"></a>要了解更多关于本书系列背后的动机和观点，请查阅前言<a href="http://www.ebooks.com/1977375/you-don-t-know-js-async-performance/simpson-kyle/"><img src="async %26 performance/cover.jpg" width="75"></a>。标题<a href="http://www.ebooks.com/2481820/you-don-t-know-js-es6-beyond/simpson-kyle/"><img src="es6 %26 beyond/cover.jpg" width="75"></a>
 
 在线阅读（免费！）：
 
-**"Up & Going"[，发表：](preface.md)现在购买**
+**“上升与前进”[，发表：](preface.md)现在购买**
 
 ## 在印刷，但电子书格式是免费的！
 
@@ -20,13 +20,13 @@
 
 ## 我会永远感激你的慷慨。
 
-&lt; a href =“http：/ / www.patreon。COM / getify”>
-
 【
 
-]（https&#x3A;//www.patreon.com/getify）[&lt; >](https://www.patreon.com/getify)在人才培养
+]（https&#x3A;//www.patreon.com/getify）
 
-这些书的内容是大量从一系列培训教材我教专业（在公共和私营企业车间格式）：“深的JavaScript基础”、“反思异步”，和“6：正确的部分”工作坊。如果你喜欢这个内容，要进行训练，这些与我联系，或其他各种js / HTML5 / Node.js的主题，请联系我通过电子邮件：getify @ Gmail![patreon.png](https://s11.postimg.org/axpzguh77/patreon.png)在线视频培训我也有一些JS培训材料，按需视频格式。我教授课程
+在人才培养[这些书的内容是大量从一系列培训教材我教专业（在公共和私营企业车间格式）：“深的JavaScript基础”、“反思异步”，和“6：正确的部分”工作坊。](https://www.patreon.com/getify)如果你喜欢这个内容，要进行训练，这些与我联系，或其他各种js / HTML5 / Node.js的主题，请联系我通过电子邮件：getify @ Gmail
+
+<a href="https://www.patreon.com/getify">在线视频培训![patreon.png](https://s11.postimg.org/axpzguh77/patreon.png)我也有一些JS培训材料，按需视频格式。我教授课程</a>
 
 ## 前端的大师
 
@@ -44,10 +44,10 @@
 
 读**工作指南**提交PR之前要仔细。
 
-许可和版权**资料都是（C）2013-2017年Kyle Simpson。**&lt; rel=“许可证”href =“http：/ /协议。org /许可证/数控钕/ 4 /”>[&lt;img alt=“创作共用许可”style=“边框宽度：0”src=“https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png”/>](CONTRIBUTING.md)&lt; >
+许可和版权**资料都是（C）2013-2017年Kyle Simpson。**这项工作在A[创作共用署名-非商业性使用-禁止演绎4本地化许可协议](CONTRIBUTING.md)。
 
-## &lt; >
+## 许可和版权
 
-这项工作在A
+资料都是（C）2013-2017年Kyle Simpson。
 
-< rel=“许可证”href =“http：/ /协议。org /许可证/数控钕/ 4 /”>创作共用署名-非商业性使用-禁止演绎4本地化许可协议< >。这项工作在A< rel=“许可证”href =“http：/ /协议。org /许可证/数控钕/ 4 /”>创作共用署名-非商业性使用-禁止演绎4本地化许可协议< >。
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />这项工作在A<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">创作共用署名-非商业性使用-禁止演绎4本地化许可协议</a>。
